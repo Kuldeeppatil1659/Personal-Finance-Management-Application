@@ -25,7 +25,6 @@ def set_budget(user_id):
         conn.close()
 
 
-# budgeting.py (add check_budget function)
 def check_budget(user_id, month, year, category):
     conn = create_connection()
     cursor = conn.cursor()

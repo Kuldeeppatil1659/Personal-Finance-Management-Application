@@ -1,9 +1,6 @@
-# data_persistence.py
-
 import shutil
 import os
 
-# Define the path to the database file
 DATABASE_FILE = "database\\finance_manager.db"
 BACKUP_FILE = 'database\\finance_manager_backup.db'
 

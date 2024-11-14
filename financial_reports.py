@@ -1,5 +1,3 @@
-# financial_reports.py
-
 from models import create_connection
 
 # Function to generate a monthly financial report

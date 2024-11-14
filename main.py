@@ -1,5 +1,3 @@
-# main.py
-
 from auth import register_user, login_user
 from transactions import add_transaction, update_transaction, delete_transaction, list_transactions
 from budgeting import set_budget, check_budget
